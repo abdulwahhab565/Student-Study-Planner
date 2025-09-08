@@ -73,7 +73,7 @@ Simply download the HTML file and open it in any modern web browser. No server o
 File Structure
 text
 student-study-planner/
-├── index.html          # Main application file
+├── index.php         # Main application file
 └── README.md           # This file
 License
 This project is open source and available under the MIT License.
